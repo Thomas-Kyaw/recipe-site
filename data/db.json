@@ -1,0 +1,1170 @@
+{
+  "recipes": [
+    {
+      "title": "Mapo Tofu (Japanese Style)",
+      "source": "https://cookpad.com/recipe/1729093",
+      "isFavourite": false,
+      "category": "Eastern",
+      "subcategory": "Japanese",
+      "times": {
+        "prep": "30 mins",
+        "cookTime": "30 mins",
+        "additionalTime": "30 mins",
+        "totalTime": "1 hr 30 mins"
+      },
+      "servings": "4",
+      "ingredients": [
+        {
+          "name": "Japanese Tofu",
+          "quantity": "3 packages"
+        },
+        {
+          "name": "Minced Pork",
+          "quantity": "150g"
+        },
+        {
+          "name": "Garlic",
+          "quantity": "1 clove"
+        },
+        {
+          "name": "Ginger",
+          "quantity": "a little"
+        },
+        {
+          "name": "Onion",
+          "quantity": "1/2"
+        },
+        {
+          "name": "Fermented Chili Bean Paste (Doubanjiang)",
+          "quantity": "2 teaspoons"
+        },
+        {
+          "name": "Sake or Shaoxing Wine",
+          "quantity": "2 tablespoons"
+        },
+        {
+          "name": "Tianmian Sauce",
+          "quantity": "1 tablespoon"
+        },
+        {
+          "name": "Soy Sauce",
+          "quantity": "1 tablespoon"
+        },
+        {
+          "name": "Chicken Stock",
+          "quantity": "1/2 tablespoon"
+        },
+        {
+          "name": "Sugar",
+          "quantity": "1/2 tablespoon"
+        },
+        {
+          "name": "Water",
+          "quantity": "250cc"
+        },
+        {
+          "name": "Corn (Potato) Starch Water",
+          "quantity": "proper amount"
+        },
+        {
+          "name": "Sesame Oil",
+          "quantity": "1/2 tablespoon"
+        }
+      ],
+      "instructions": [
+        "Add oil to the frying pan and heat up the oil. Add finely chopped garlic, ginger, and onion and stir fry. Add minced meat and stir fry until the color changes.",
+        "Add fermented chili bean paste. Adjust the amount to your liking.",
+        "Add all the ingredients listed by ● in and bring it to a boil.",
+        "Add tofu to the pan and let it simmer.",
+        "Reduce the heat and add the dissolved cornstarch, mixing well. Return the heat to its original setting to thicken the sauce. Finish by adding sesame oil and green onions (not included in the ingredient list) to complete the dish."
+      ]
+    },
+    {
+      "title": "Pad Thai",
+      "source": "https://hot-thai-kitchen.com/best-pad-thai/",
+      "isFavourite": false,
+      "category": "Eastern",
+      "subcategory": "Others",
+      "times": {
+        "prep": "15 mins",
+        "cookTime": "10 mins",
+        "additionalTime": "40 mins to 1 hr",
+        "totalTime": "1 hr 20 mins"
+      },
+      "servings": "Not specified",
+      "ingredients": [
+        {
+          "name": "Tamarind Paste",
+          "quantity": "To taste"
+        },
+        {
+          "name": "Palm Sugar",
+          "quantity": "To taste"
+        },
+        {
+          "name": "Fish Sauce",
+          "quantity": "To taste"
+        },
+        {
+          "name": "Shallots",
+          "quantity": "To taste"
+        },
+        {
+          "name": "Garlic",
+          "quantity": "To taste"
+        },
+        {
+          "name": "Pressed Tofu",
+          "quantity": "To taste"
+        },
+        {
+          "name": "Sweet Preserved Radish",
+          "quantity": "To taste"
+        },
+        {
+          "name": "Chili Flakes",
+          "quantity": "To taste"
+        },
+        {
+          "name": "Eggs",
+          "quantity": "To taste"
+        },
+        {
+          "name": "Roasted Peanuts",
+          "quantity": "To taste"
+        },
+        {
+          "name": "Bean Sprouts",
+          "quantity": "To taste"
+        },
+        {
+          "name": "Garlic Chives",
+          "quantity": "To taste"
+        },
+        {
+          "name": "Lime Wedges",
+          "quantity": "To taste"
+        },
+        {
+          "name": "Dry Rice Noodles",
+          "quantity": "To taste"
+        }
+      ],
+      "instructions": [
+        "Soak the dry rice noodles in water for 30 minutes to 1 hour depending on thickness. You can also soak the noodles in hot water but the texture can be different.",
+        "To make the sauce, melt and caramelize the palm sugar. Add water to stop the caramelization. Add fish sauce and tamarind and bring to a simmer. Off heat and let it sit until the sugar is completely dissolved.",
+        "Toss until the noodles have absorbed all the sauce. Push the noodles to one side and add the eggs to the space you've made and break the yolks. Put the noodles on top of the eggs and let it cook for 15-30 seconds. Flip and toss to mix.",
+        "Add the peanuts, bean sprouts, and garlic chives. Turn off the heat and toss until the bean sprouts are incorporated and slightly wilted. Plate and top with more peanuts and shrimp. Don't forget to add fresh lime before eating!"
+      ]
+    },
+    {
+      "title": "Chicken Tikka Masala",
+      "source": "https://www.allrecipes.com/recipe/45736/chicken-tikka-masala/",
+      "isFavourite": false,
+      "category": "Eastern",
+      "subcategory": "Others",
+      "times": {
+        "prep": "30 mins",
+        "cookTime": "50 mins",
+        "additionalTime": "1 hr",
+        "totalTime": "2 hr 20 mins"
+      },
+      "servings": "4",
+      "ingredients": [
+        {
+          "name": "Yogurt",
+          "quantity": "1 cup"
+        },
+        {
+          "name": "Lemon Juice",
+          "quantity": "1 tablespoon"
+        },
+        {
+          "name": "Ground Cumin",
+          "quantity": "4 teaspoons divided"
+        },
+        {
+          "name": "Ground Cinnamon",
+          "quantity": "1 teaspoon"
+        },
+        {
+          "name": "Cayenne Pepper",
+          "quantity": "2 teaspoons"
+        },
+        {
+          "name": "Freshly Ground Black Pepper",
+          "quantity": "2 teaspoons"
+        },
+        {
+          "name": "Minced Fresh Ginger",
+          "quantity": "1 tablespoon"
+        },
+        {
+          "name": "Salt",
+          "quantity": "2 teaspoons divided, or more to taste"
+        },
+        {
+          "name": "Boneless Skinless Chicken Breasts",
+          "quantity": "3, cut into bite-size pieces"
+        },
+        {
+          "name": "Long Skewers",
+          "quantity": "4"
+        },
+        {
+          "name": "Butter",
+          "quantity": "1 tablespoon"
+        },
+        {
+          "name": "Garlic",
+          "quantity": "1 clove, minced"
+        },
+        {
+          "name": "Jalapeno Pepper",
+          "quantity": "1, finely chopped"
+        },
+        {
+          "name": "Paprika",
+          "quantity": "2 teaspoons"
+        },
+        {
+          "name": "Tomato Sauce",
+          "quantity": "1 (8 ounce) can"
+        },
+        {
+          "name": "Heavy Cream",
+          "quantity": "1 cup"
+        },
+        {
+          "name": "Chopped Fresh Cilantro",
+          "quantity": "¼ cup"
+        }
+      ],
+      "instructions": [
+        "Combine yogurt, lemon juice, 2 teaspoons cumin, cinnamon, cayenne, black pepper, ginger, and 1 teaspoon salt in a large bowl.",
+        "Stir in chicken, cover, and refrigerate for 1 hour.",
+        "Preheat a grill for high heat.",
+        "Lightly oil the grill grate. Thread chicken onto skewers, and discard marinade.",
+        "Grill until juices run clear, about 5 minutes on each side.",
+        "Melt butter in a large heavy skillet over medium heat. Sauté garlic and jalapeño for 1 minute. Season with remaining 2 teaspoons cumin, paprika, and remaining 1 teaspoon salt. Stir in tomato sauce and cream. Simmer on low heat until sauce thickens, about 20 minutes.",
+        "Add grilled chicken, and simmer for 10 minutes. Transfer to a serving platter, and garnish with fresh cilantro.",
+        "Serve over rice."
+      ]
+    },
+    {
+      "title": "Oyakodon",
+      "source": "https://www.allrecipes.com/recipe/128589/oyakodon-japanese-chicken-and-egg-rice-bowl/",
+      "isFavourite": false,
+      "category": "Eastern",
+      "subcategory": "Japanese",
+      "times": {
+        "prep": "10 mins",
+        "cookTime": "30 mins",
+        "totalTime": "40 mins"
+      },
+      "servings": "4",
+      "ingredients": [
+        {
+          "name": "Olive Oil",
+          "quantity": "1 tablespoon"
+        },
+        {
+          "name": "Skinless, Boneless Chicken Thighs",
+          "quantity": "4, cut into small pieces"
+        },
+        {
+          "name": "Onion",
+          "quantity": "1, cut in half and sliced"
+        },
+        {
+          "name": "Dashi Stock",
+          "quantity": "2 cups, made with dashi powder"
+        },
+        {
+          "name": "Soy Sauce",
+          "quantity": "¼ cup"
+        },
+        {
+          "name": "Mirin (Japanese Rice Wine)",
+          "quantity": "3 tablespoons"
+        },
+        {
+          "name": "Brown Sugar",
+          "quantity": "3 tablespoons"
+        },
+        {
+          "name": "Eggs",
+          "quantity": "4 large"
+        },
+        {
+          "name": "Hot Cooked White Rice",
+          "quantity": "4 cups"
+        }
+      ],
+      "instructions": [
+        "Heat oil in a large skillet over medium heat. Add chicken and cook until beginning to brown, about 5 minutes. Add onion; cook and stir until onion is translucent, about 5 minutes.",
+        "Pour in stock, then whisk in soy sauce, mirin, and brown sugar; stir until sugar dissolves. Bring to a boil, then lower heat and simmer until slightly reduced, about 10 minutes.",
+        "Whisk eggs in a bowl until well-beaten, then pour into the hot stock mixture. Cover the skillet, reduce the heat, and steam until egg is cooked, about 5 minutes. Remove from the heat.",
+        "Divide rice among 4 deep soup bowls and top with equal amounts of the soup mixture."
+      ]
+    },
+    {
+      "title": "Kimchi Jigae",
+      "source": "https://www.maangchi.com/recipe/kimchi-jjigae",
+      "isFavourite": false,
+      "category": "Eastern",
+      "subcategory": "Korean",
+      "times": {
+        "prep": "30 mins",
+        "cookTime": "30 mins",
+        "additionalTime": "30 mins",
+        "totalTime": "1 hr 30 mins"
+      },
+      "servings": "4",
+      "ingredients": [
+        {
+          "name": "Kimchi",
+          "quantity": "1 pound, cut into bite size pieces"
+        },
+        {
+          "name": "Kimchi Brine",
+          "quantity": "¼ cup"
+        },
+        {
+          "name": "Pork Shoulder or Pork Belly",
+          "quantity": "½ pound"
+        },
+        {
+          "name": "Tofu (optional)",
+          "quantity": "½ package, sliced into ½ inch thick bite size pieces"
+        },
+        {
+          "name": "Green Onions",
+          "quantity": "3"
+        },
+        {
+          "name": "Medium Onion",
+          "quantity": "1, sliced (1 cup)"
+        },
+        {
+          "name": "Kosher Salt",
+          "quantity": "1 teaspoon"
+        },
+        {
+          "name": "Sugar",
+          "quantity": "2 teaspoons"
+        },
+        {
+          "name": "Gochugaru (Korean Hot Pepper Flakes)",
+          "quantity": "2 teaspoons"
+        },
+        {
+          "name": "Gochujang (Hot Pepper Paste)",
+          "quantity": "1 tablespoon"
+        },
+        {
+          "name": "Toasted Sesame Oil",
+          "quantity": "1 teaspoon"
+        },
+        {
+          "name": "Anchovy Stock (or chicken or beef broth)",
+          "quantity": "2 cups"
+        },
+        {
+          "name": "Dried Anchovies",
+          "quantity": "7 large, heads and guts removed"
+        },
+        {
+          "name": "Korean Radish or Daikon Radish",
+          "quantity": "⅓ cup, sliced thinly"
+        },
+        {
+          "name": "Dried Kelp",
+          "quantity": "4×5 inch piece"
+        },
+        {
+          "name": "Green Onion Roots",
+          "quantity": "3"
+        },
+        {
+          "name": "Water",
+          "quantity": "4 cups"
+        }
+      ],
+      "instructions": [
+        "Making Anchovy Stock: Put the anchovies, daikon, green onion roots, and dried kelp in a sauce pan. Add the water and boil for 20 minutes over medium high heat. Lower the heat to low for another 5 minutes. Strain.",
+        "Making Kimchi Stew: Place the kimchi and kimchi brine in a shallow pot. Add pork and onion. Slice 2 green onions diagonally and add them to the pot. Add salt, sugar, hot pepper flakes, and hot pepper paste. Drizzle sesame oil over top and add the anchovy stock.",
+        "Cover and cook for 10 minutes over medium high heat.",
+        "Cover and cook another 10 to 15 minutes over medium heat.",
+        "Chop 1 green onion and put it on the top of the stew. Remove from the heat and serve right away with rice."
+      ]
+    },
+    {
+      "title": "Sichuan Eggplant Stir Fry",
+      "source": "https://www.cookingandme.com/szechuan-eggplant-sichuan-eggplant-recipe/",
+      "isFavourite": false,
+      "category": "Eastern",
+      "subcategory": "Chinese",
+      "times": {
+        "prep": "5 mins",
+        "cookTime": "15 mins",
+        "totalTime": "20 mins"
+      },
+      "servings": "4",
+      "ingredients": [
+        {
+          "name": "Eggplant",
+          "quantity": "3 cups, cut into 1\" wide wedges or cubes, use the large, purple variety"
+        },
+        {
+          "name": "Shallots or Pearl Onions",
+          "quantity": "5-6"
+        },
+        {
+          "name": "Minced Garlic",
+          "quantity": "1 teaspoon, add more if you can tolerate it"
+        },
+        {
+          "name": "Red Chilli Sauce",
+          "quantity": "1 teaspoon, Sriracha, Maggi, or even chilli flakes will work"
+        },
+        {
+          "name": "Soya Sauce",
+          "quantity": "2 tablespoons"
+        },
+        {
+          "name": "White Vinegar",
+          "quantity": "1 teaspoon"
+        },
+        {
+          "name": "Cornflour or Corn Starch",
+          "quantity": "1 teaspoon"
+        },
+        {
+          "name": "Brown Sugar or Jaggery",
+          "quantity": "1/2 teaspoon"
+        },
+        {
+          "name": "Coriander Leaves / Cilantro",
+          "quantity": "A fistful"
+        },
+        {
+          "name": "Black Pepper Powder",
+          "quantity": "1/2 teaspoon, adjust to taste"
+        },
+        {
+          "name": "Sesame Oil",
+          "quantity": "2 tablespoons, Indian gingelly oil or peanut oil"
+        },
+        {
+          "name": "Water",
+          "quantity": "1 cup"
+        }
+      ],
+      "instructions": [
+        "Heat the oil in a wide pan and when it starts to smoke, add the eggplant in 2 batches, frying until sticky and brown.",
+        "Add salt and pepper to this, drain, and set aside.",
+        "In the same pan, add more oil if required and fry the shallots until soft.",
+        "To this, add the red chilli sauce (or flakes) and minced garlic. Saute for a few seconds.",
+        "Meanwhile, mix the soya sauce, vinegar, corn starch, sugar, and some salt in a bowl to make the Szechuan sauce.",
+        "Add this to the shallot mixture and cook on medium-high heat until it starts to bubble.",
+        "Tip in the fried eggplant and mix well until the sauce coats the eggplant.",
+        "Garnish with chopped coriander leaves and serve hot with fried rice or noodles. Goes great even with plain steamed rice."
+      ]
+    },
+    {
+      "title": "Fried Flat Rice Noodles (My Mom’s Recipe)",
+      "source": "/home",
+      "isFavourite": false,
+      "category": "Eastern",
+      "subcategory": "Others",
+      "ingredients": [
+        {
+          "name": "Flat Rice Noodles",
+          "quantity": "1 pack"
+        },
+        {
+          "name": "Eggs",
+          "quantity": "2"
+        },
+        {
+          "name": "Soy Sauce",
+          "quantity": "2 tablespoons"
+        },
+        {
+          "name": "Oyster Sauce",
+          "quantity": "2 tablespoons"
+        },
+        {
+          "name": "Fermented Bean Paste/Sauce",
+          "quantity": "4 tablespoons",
+          "note": "if you prefer a stronger taste you can add more"
+        },
+        {
+          "name": "Chickpeas",
+          "quantity": "1 cup"
+        },
+        {
+          "name": "Beansprouts",
+          "quantity": "a handful"
+        },
+        {
+          "name": "Sugar",
+          "quantity": "1 1/2 teaspoons"
+        },
+        {
+          "name": "Onions",
+          "quantity": "1"
+        },
+        {
+          "name": "Garlic",
+          "quantity": "3 cloves",
+          "note": "or more if you love garlic"
+        },
+        {
+          "name": "Peanut Oil",
+          "quantity": "150cc"
+        },
+        {
+          "name": "Sesame Oil",
+          "quantity": "2 teaspoons"
+        }
+      ],
+      "instructions": [
+        "Tip your chickpeas into a saucepan and cover them with lots of cold water, bring to a boil, add bicarbonate of soda, and then boil for 15 minutes. Turn off the heat and leave to soak for 1 hour. Drain the water and leave them covered off the heat.",
+        "Soak the noodles in water for 1 hour depending on the thickness of the noodles. If your local store has already boiled rice noodles in a package, you can just buy it and skip this step.",
+        "Boil the noodles in boiling water until they have an al dente texture. You have to taste the noodles occasionally as different noodles can have different boiling times.",
+        "Heat the pan to medium heat and add the peanut oil.",
+        "Beat the eggs with soy sauce and salt to your liking and pour the mixture into the heated pan. Fry until you cannot see the egg mixture liquid. Put it on a plate and set it aside.",
+        "When the oil has no bubbles, add garlic and fry for 10 seconds to release the aroma. Add the chopped onions and fry until there is a slight color change.",
+        "Add in the fermented bean paste and sugar, and stir fry at medium heat for about 20 seconds.",
+        "Add the soaked beans and stir fry at high heat for another two minutes or until the beans have a soft yet firm texture.",
+        "Finally, add the boiled noodles and egg and fry at medium heat and mix the noodles with the sauce that are cooking in the pan.",
+        "Add soy sauce, oyster sauce, and 1 tablespoon of sesame oil and mix it well.",
+        "Add the bean sprouts and mix it all once more to incorporate all the ingredients together.",
+        "Serve with some toppings like chopped roasted peanuts and finely chopped spring onions, although it's typically eaten quickly before school as a great way to energize your whole day."
+      ]
+    },
+    {
+      "title": "Goya Champuru (Bitter Gourd Stir-Fry)",
+      "source": "https://cookpad.com/recipe/1515963",
+      "isFavourite": false,
+      "category": "Eastern",
+      "subcategory": "Japanese",
+      "ingredients": [
+        {
+          "name": "Bitter Gourd (Goya)",
+          "quantity": "1 piece, 20 ~ 30 cm"
+        },
+        {
+          "name": "Pork",
+          "quantity": "150 g"
+        },
+        {
+          "name": "Firm Tofu (Momen Tofu)",
+          "quantity": "200 g"
+        },
+        {
+          "name": "Eggs",
+          "quantity": "2"
+        },
+        {
+          "name": "Bonito Flakes (Katsuobushi)",
+          "quantity": "1 pack"
+        },
+        {
+          "name": "Sake",
+          "quantity": "1 tablespoon",
+          "category": "Seasoning"
+        },
+        {
+          "name": "Soy Sauce",
+          "quantity": "1 and 1/2 tablespoons",
+          "category": "Seasoning"
+        },
+        {
+          "name": "Oyster Sauce",
+          "quantity": "1 tablespoon",
+          "category": "Seasoning"
+        },
+        {
+          "name": "Japanese Dashi",
+          "quantity": "1 teaspoon",
+          "category": "Seasoning"
+        },
+        {
+          "name": "Sesame Oil",
+          "quantity": "1 tablespoon",
+          "category": "For Cooking"
+        },
+        {
+          "name": "Olive or Salad Oil",
+          "quantity": "proper amount",
+          "category": "For Cooking"
+        },
+        {
+          "name": "Flour",
+          "quantity": "1 tablespoon",
+          "category": "For Cooking"
+        },
+        {
+          "name": "Salt, Pepper",
+          "quantity": "proper amount",
+          "category": "For Cooking"
+        }
+      ],
+      "instructions": [
+        "Cut the bitter gourd into normal not-so-thin slices and rub the cut pieces with salt. Then put them in salted water for at least 15 mins to reduce the bitterness of the gourd.",
+        "Cut the tofu and put them above 3 - 4 kitchen tissues. Prepare them for cooking by putting them in a microwave at 600 W for 1 min.",
+        "Season the thin pork slices with salt and pepper and coat them lightly with flour.",
+        "Heat up olive oil in a pan and fry the dried tofu pieces. Put them aside in a bowl when you see a slight brown color.",
+        "Add sesame oil to the pan and stir fry for 10 seconds to release the aroma. Add the pork slices and the salt-watered and drained bitter gourd slices.",
+        "Add the tofu back into the pot and mix it well. Season the dish with the seasonings marked with a ★.",
+        "To finish the dish, pour beaten eggs in a circular motion into the pan, then add bonito flakes and mix everything together until well combined. This completes the dish, adding a light, fluffy texture and a savory depth with the bonito flakes."
+      ]
+    },
+    {
+      "title": "BLT Sandwich",
+      "source": "https://www.seriouseats.com/ultimate-blt-sandwich-bacon-lettuce-tomato-recipe",
+      "isFavourite": false,
+      "category": "Western",
+      "subcategory": "American",
+      "times": {
+        "prep": "5 mins",
+        "cook": "15 mins",
+        "active": "20 mins",
+        "total": "20 mins"
+      },
+      "servings": "1 serving",
+      "ingredients": [
+        {
+          "name": "Thick-cut, naturally cured bacon",
+          "quantity": "3 strips"
+        },
+        {
+          "name": "High-quality sandwich bread, such as shokupan",
+          "quantity": "2 slices"
+        },
+        {
+          "name": "Homemade or store-bought mayonnaise",
+          "quantity": "2 tablespoons (30ml)",
+          "note": "See note for homemade mayonnaise"
+        },
+        {
+          "name": "Finely shredded iceberg lettuce",
+          "quantity": "1 cup",
+          "note": "From about a quarter head"
+        },
+        {
+          "name": "Ripe tomato",
+          "quantity": "2 to 4 thick slices",
+          "note": "See note for selection"
+        },
+        {
+          "name": "Coarse sea salt, such as fleur de sel or Maldon",
+          "quantity": "To taste"
+        },
+        {
+          "name": "Freshly ground black pepper",
+          "quantity": "To taste"
+        }
+      ],
+      "instructions": [
+        "Place a griddle or skillet over medium-low heat. Add bacon and place a bacon press, skillet, or masonry trowel on top of it to keep it flat as it cooks. Cook until lightly browned on the first side, about 5 minutes, then flip, cover again, and continue cooking until bacon is browned on both sides and fat has rendered, about 3 minutes longer. Transfer bacon to a paper towel–lined plate and set aside.",
+        "Place bread on the same skillet or griddle and toast in bacon fat over medium-low heat, swirling occasionally, until evenly browned on the first side. Flip and brown the second side.",
+        "Lay toasted bread on a work surface and spread mayonnaise on both top faces. Divide lettuce evenly between both pieces of bread. Layer tomato slices on 1 piece of bread and sprinkle generously with coarse salt and freshly ground pepper.",
+        "Break bacon slices in half and layer them onto the sandwich in 2 layers of 3 half slices each, alternating the orientation of bacon in each layer for more structural stability. Close the sandwich and cut in half diagonally. Serve immediately."
+      ]
+    },
+    {
+      "title": "Korean Fried Chicken",
+      "source": "https://www.maangchi.com/recipe/easy-dakgangjeong",
+      "isFavourite": false,
+      "category": "Eastern",
+      "subcategory": "Korean",
+      "ingredients": [
+        {
+          "name": "Chicken wings",
+          "quantity": "3½ pounds (about 1.6 kg), washed and drained"
+        },
+        {
+          "name": "Kosher salt",
+          "quantity": "½ teaspoon"
+        },
+        {
+          "name": "Ground black pepper",
+          "quantity": "½ teaspoon"
+        },
+        {
+          "name": "Minced ginger",
+          "quantity": "1 teaspoon"
+        },
+        {
+          "name": "Potato starch or corn starch",
+          "quantity": "⅔ cup"
+        },
+        {
+          "name": "Peanuts (optional)",
+          "quantity": "⅓ cup"
+        },
+        {
+          "name": "Minced garlic",
+          "quantity": "4 cloves"
+        },
+        {
+          "name": "Dried red chili peppers (optional)",
+          "quantity": "3 to 4 large, seeded, cut crosswise into ⅓ inch pieces"
+        },
+        {
+          "name": "Soy sauce",
+          "quantity": "¼ cup"
+        },
+        {
+          "name": "Rice syrup or corn syrup",
+          "quantity": "½ cup"
+        },
+        {
+          "name": "White vinegar",
+          "quantity": "1 tablespoon"
+        },
+        {
+          "name": "Mustard (optional)",
+          "quantity": "1 tablespoon"
+        },
+        {
+          "name": "Brown sugar",
+          "quantity": "1 tablespoon"
+        },
+        {
+          "name": "Toasted sesame seeds",
+          "quantity": "1 tablespoon"
+        },
+        {
+          "name": "Grapeseed oil, vegetable oil, or peanut oil",
+          "quantity": "For frying"
+        }
+      ],
+      "instructions": [
+        "Season chicken with salt, pepper, and ginger. Coat each wing in starch.",
+        "Make the sauce: Heat oil, garlic, and chili peppers. Add soy sauce, syrup, vinegar, and mustard. Stir and let bubble, then add brown sugar. Remove from heat.",
+        "Fry the chicken: Heat oil and fry wings until golden brown and crunchy.",
+        "Coat the fried chicken with the sauce, reheat sauce until it bubbles, then toss the chicken in it.",
+        "Serve sprinkled with sesame seeds. Accompany with white kimchi (baek-kimchi) and pickled radishes (chicken-mu) if desired."
+      ]
+    },
+    {
+      "title": "Paella",
+      "source": "https://www.allrecipes.com/recipe/84137/easy-paella/",
+      "isFavourite": false,
+      "category": "Western",
+      "subcategory": "European",
+      "times": {
+        "prep": "30 mins",
+        "cook": "30 mins",
+        "total": "1 hr"
+      },
+      "servings": "8",
+      "ingredients": [
+        {
+          "name": "Olive oil",
+          "quantity": "4 tablespoons, divided"
+        },
+        {
+          "name": "Ground paprika",
+          "quantity": "1 tablespoon"
+        },
+        {
+          "name": "Dried oregano",
+          "quantity": "2 teaspoons"
+        },
+        {
+          "name": "Salt and ground black pepper",
+          "quantity": "to taste"
+        },
+        {
+          "name": "Skinless, boneless chicken breasts",
+          "quantity": "2 pounds, cut into 2 inch pieces"
+        },
+        {
+          "name": "Garlic, crushed",
+          "quantity": "3 cloves"
+        },
+        {
+          "name": "Crushed red pepper flakes",
+          "quantity": "1 teaspoon"
+        },
+        {
+          "name": "Uncooked short-grain white rice",
+          "quantity": "2 cups"
+        },
+        {
+          "name": "Saffron threads",
+          "quantity": "1 pinch"
+        },
+        {
+          "name": "Bay leaf",
+          "quantity": "1 large"
+        },
+        {
+          "name": "Italian flat leaf parsley, chopped",
+          "quantity": "½ bunch"
+        },
+        {
+          "name": "Chicken stock",
+          "quantity": "1 quart"
+        },
+        {
+          "name": "Lemons, zested",
+          "quantity": "2 medium"
+        },
+        {
+          "name": "Spanish onion, chopped",
+          "quantity": "1 medium"
+        },
+        {
+          "name": "Red bell pepper, coarsely chopped",
+          "quantity": "1 medium"
+        },
+        {
+          "name": "Shrimp, peeled and deveined",
+          "quantity": "1 pound"
+        },
+        {
+          "name": "Chorizo sausage, casings removed and crumbled",
+          "quantity": "1 pound"
+        }
+      ],
+      "directions": [
+        "Mix olive oil, paprika, oregano, salt, and pepper for marinade in a glass bowl.",
+        "Begin paella: Add chicken to marinade, stir to coat, cover, and refrigerate.",
+        "Heat 2 tablespoons olive oil in a large skillet or paella pan, stir in garlic, pepper flakes, and rice. Cook until rice is coated, about 3 minutes.",
+        "Add saffron, bay leaf, parsley, chicken stock, and lemon zest. Stir, bring to a boil, reduce heat, cover, and simmer for 20 minutes.",
+        "While rice cooks, heat olive oil in a separate skillet, add marinated chicken and cook for 3 minutes. Add onion, cook until translucent.",
+        "Add bell pepper and sausage; cook for 5 minutes. Add shrimp; cook until pink and opaque, about 2 minutes.",
+        "Spread rice mixture onto a serving tray, top with meat and seafood mixture."
+      ]
+    },
+    {
+      "title": "Karaage",
+      "source": "https://www.kewpie.co.jp/recipes/basicokazu/okazu01/",
+      "isFavourite": false,
+      "category": "",
+      "subcategory": "",
+      "ingredients": [
+        {
+          "name": "Chicken Thighs",
+          "quantity": "250g"
+        },
+        {
+          "name": "Soy Sauce (A)",
+          "quantity": "1 tablespoon"
+        },
+        {
+          "name": "Sake (A)",
+          "quantity": "1 tablespoon"
+        },
+        {
+          "name": "Grated Ginger (A)",
+          "quantity": "1/2 teaspoon"
+        },
+        {
+          "name": "Grated Garlic (A)",
+          "quantity": "1/2 teaspoon"
+        },
+        {
+          "name": "Pepper (A)",
+          "quantity": "a pinch"
+        },
+        {
+          "name": "Flour",
+          "quantity": "3 tablespoons"
+        },
+        {
+          "name": "Corn Starch",
+          "quantity": "3 tablespoons"
+        },
+        {
+          "name": "Vegetable Oil",
+          "quantity": "proper amount"
+        },
+        {
+          "name": "Lemon Wedges",
+          "quantity": "proper amount"
+        },
+        {
+          "name": "Cabbage",
+          "quantity": "60 g",
+          "note": "Extra topping"
+        },
+        {
+          "name": "Tomato",
+          "quantity": "83 g",
+          "note": "Extra topping"
+        }
+      ],
+      "instructions": [
+        "Cut the chicken thighs into bite-sized pieces, ensuring they are roughly the same size for even cooking.",
+        "In a bowl, mix the chicken with 'A' ingredients until the mixture feels uniform.",
+        "Combine flour and corn starch in a tray. Dust the chicken pieces with this mixture lightly, then arrange them on a separate tray, leaving space between each piece.",
+        "Heat frying oil to a depth of 2cm in a pan to 170°C. Fry the chicken for 2-3 minutes until golden brown on one side, then flip and fry for another 2-3 minutes. Serve with thinly sliced cabbage, wedged tomatoes, and lemon wedges."
+      ]
+    },
+    {
+      "title": "Creamy au Gratin Potatoes",
+      "source": "https://www.allrecipes.com/recipe/15925/creamy-au-gratin-potatoes/",
+      "isFavourite": false,
+      "category": "Western",
+      "subcategory": "European",
+      "times": {
+        "prep": "30 mins",
+        "cook": "1 hr 30 mins",
+        "total": "2 hrs"
+      },
+      "servings": "4",
+      "ingredients": [
+        {
+          "name": "Russet potatoes, thinly sliced",
+          "quantity": "4 medium"
+        },
+        {
+          "name": "Onion, sliced into rings",
+          "quantity": "1 medium"
+        },
+        {
+          "name": "Salt and ground black pepper",
+          "quantity": "to taste"
+        },
+        {
+          "name": "Butter",
+          "quantity": "3 tablespoons"
+        },
+        {
+          "name": "All-purpose flour",
+          "quantity": "3 tablespoons"
+        },
+        {
+          "name": "Salt",
+          "quantity": "½ teaspoon"
+        },
+        {
+          "name": "Milk",
+          "quantity": "2 cups"
+        },
+        {
+          "name": "Shredded Cheddar cheese",
+          "quantity": "1 ½ cups"
+        }
+      ],
+      "directions": [
+        "Preheat the oven to 400 degrees F (200 degrees C). Butter a 1-quart casserole dish.",
+        "Layer 1/2 of the potatoes in the bottom of the prepared casserole dish; season with salt and pepper. Top with onion slices, remaining potatoes, and season again.",
+        "Melt butter in a saucepan over medium heat. Whisk in flour and salt; cook for 1 minute. Gradually add milk, whisking to avoid lumps. Cook until thickened, then stir in cheese until melted. Pour over the potatoes.",
+        "Cover with foil and bake until potatoes are tender and sauce is bubbly, about 1 ½ hours."
+      ]
+    },
+    {
+      "title": "Mongolian Beef",
+      "source": "https://www.allrecipes.com/recipe/201849/mongolian-beef-and-spring-onions/",
+      "isFavourite": false,
+      "category": "Eastern",
+      "subcategory": "Chinese",
+      "times": {
+        "prep": "15 mins",
+        "cook": "10 mins",
+        "additional": "10 mins",
+        "total": "35 mins"
+      },
+      "servings": "4",
+      "ingredients": [
+        {
+          "name": "Vegetable oil",
+          "quantity": "2 teaspoons"
+        },
+        {
+          "name": "Finely chopped garlic",
+          "quantity": "1 tablespoon"
+        },
+        {
+          "name": "Grated fresh ginger root",
+          "quantity": "½ teaspoon"
+        },
+        {
+          "name": "Dark brown sugar",
+          "quantity": "⅔ cup"
+        },
+        {
+          "name": "Soy sauce",
+          "quantity": "½ cup"
+        },
+        {
+          "name": "Water",
+          "quantity": "½ cup"
+        },
+        {
+          "name": "Beef flank steak, sliced 1/4 inch thick on the diagonal",
+          "quantity": "1 pound"
+        },
+        {
+          "name": "Cornstarch",
+          "quantity": "¼ cup"
+        },
+        {
+          "name": "Vegetable oil for frying",
+          "quantity": "1 cup"
+        },
+        {
+          "name": "Green onions, cut in 2-inch lengths",
+          "quantity": "2 bunches"
+        }
+      ],
+      "directions": [
+        "Heat 2 teaspoons of vegetable oil in a saucepan over medium heat. Add garlic and ginger; cook until fragrant. Stir in brown sugar, soy sauce, and water; boil and thicken. Remove from heat and set aside.",
+        "Mix beef with cornstarch until coated. Let stand until cornstarch is absorbed.",
+        "Fry beef in hot oil until crisp. Drain on paper towels.",
+        "Heat skillet, add beef and sauce. Add green onions, bring to a boil, cook until onions are bright green."
+      ]
+    },
+    {
+      "title": "Beef Bulgogi",
+      "source": "https://www.allrecipes.com/recipe/100606/beef-bulgogi/",
+      "isFavourite": false,
+      "category": "Eastern",
+      "subcategory": "Korean",
+      "times": {
+        "prep": "10 mins",
+        "cook": "5 mins",
+        "additional": "1 hr",
+        "total": "1 hr 15 mins"
+      },
+      "servings": "4",
+      "ingredients": [
+        {
+          "name": "Soy sauce",
+          "quantity": "5 tablespoons"
+        },
+        {
+          "name": "Chopped green onion",
+          "quantity": "¼ cup"
+        },
+        {
+          "name": "White sugar",
+          "quantity": "2 ½ tablespoons"
+        },
+        {
+          "name": "Minced garlic",
+          "quantity": "2 tablespoons"
+        },
+        {
+          "name": "Sesame seeds",
+          "quantity": "2 tablespoons"
+        },
+        {
+          "name": "Sesame oil",
+          "quantity": "2 tablespoons"
+        },
+        {
+          "name": "Ground black pepper",
+          "quantity": "½ teaspoon"
+        },
+        {
+          "name": "Flank steak, thinly sliced",
+          "quantity": "1 pound"
+        }
+      ],
+      "directions": [
+        "Whisk soy sauce, green onion, sugar, garlic, sesame seeds, sesame oil, and pepper together in a bowl.",
+        "Place flank steak slices in a shallow dish. Pour marinade over top. Cover and refrigerate for at least 1 hour or overnight.",
+        "Preheat an outdoor grill for high heat, and lightly oil the grate.",
+        "Quickly grill flank steak slices on the preheated grill until slightly charred and cooked through, 1 to 2 minutes per side.",
+        "Serve hot."
+      ]
+    },
+    {
+      "title": "Louisiana Red Beans and Rice",
+      "source":"https://www.allrecipes.com/recipe/58211/authentic-louisiana-red-beans-and-rice/",
+      "isFavourite": false,
+      "category": "Western",
+      "subcategory": "American",
+      "times": {
+        "prep": "25 mins",
+        "cook": "3 hrs 5 mins",
+        "additional": "8 hrs",
+        "total": "11 hrs 30 mins"
+      },
+      "servings": "8",
+      "ingredients": [
+        {
+          "name": "Dry kidney beans",
+          "quantity": "1 pound"
+        },
+        {
+          "name": "Olive oil",
+          "quantity": "¼ cup"
+        },
+        {
+          "name": "Large onion, chopped",
+          "quantity": "1"
+        },
+        {
+          "name": "Green bell pepper, chopped",
+          "quantity": "1"
+        },
+        {
+          "name": "Celery stalks, chopped",
+          "quantity": "2"
+        },
+        {
+          "name": "Minced garlic",
+          "quantity": "2 tablespoons"
+        },
+        {
+          "name": "Water for beans",
+          "quantity": "6 cups"
+        },
+        {
+          "name": "Bay leaves",
+          "quantity": "2"
+        },
+        {
+          "name": "Dried parsley",
+          "quantity": "1 tablespoon"
+        },
+        {
+          "name": "Dried thyme",
+          "quantity": "1 teaspoon"
+        },
+        {
+          "name": "Cajun seasoning",
+          "quantity": "1 teaspoon"
+        },
+        {
+          "name": "Cayenne pepper",
+          "quantity": "½ teaspoon"
+        },
+        {
+          "name": "Dried sage",
+          "quantity": "¼ teaspoon"
+        },
+        {
+          "name": "Andouille sausage, sliced",
+          "quantity": "1 pound"
+        },
+        {
+          "name": "Water for rice",
+          "quantity": "4 cups"
+        },
+        {
+          "name": "Long grain white rice",
+          "quantity": "2 cups"
+        }
+      ],
+      "instructions": [
+        "Rinse beans, then soak in a large pot of water overnight.",
+        "Heat oil in a skillet over medium heat. Cook onion, bell pepper, celery, and garlic in olive oil for 3 to 4 minutes.",
+        "Rinse beans, and transfer to a large pot with 6 cups water. Stir cooked vegetables into beans. Season with bay leaves, parsley, thyme, Cajun seasoning, cayenne pepper, and sage. Bring to a boil, then reduce heat to medium-low. Simmer for 2 1/2 hours.",
+        "Stir sausage into beans, and continue to simmer for 30 minutes.",
+        "Prepare the rice. Bring water and rice to a boil in a saucepan. Reduce heat, cover, and simmer for 20 minutes. Serve beans over steamed white rice."
+      ]
+    }      
+  ]
+}
