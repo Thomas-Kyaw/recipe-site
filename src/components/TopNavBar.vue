@@ -35,6 +35,6 @@ export default {
 
 .nav-link:hover {
   text-decoration: underline;
-  text-decoration-color: #6c6a67;
+  text-decoration-color: orange;
 }
 </style>

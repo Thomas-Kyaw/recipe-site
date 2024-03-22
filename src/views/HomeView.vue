@@ -1,7 +1,8 @@
 <template>
   <div class="home">
     <div class="container">
-      
+      <h1 class="lead mb-5">Home Cook Recipes</h1>
+      <p class="lead mb-5">Lorem ipsum dolor sit amet consectetur adipisicing elit. Doloremque nam at possimus harum commodi aut qui iste atque, nostrum laborum. Libero earum totam officiis ducimus vitae assumenda veritatis architecto praesentium esse dolor magnam ut quaerat tempora consectetur ullam laudantium, error nulla cupiditate adipisci quasi nostrum odio iusto. Inventore dolores fugit corrupti doloremque accusamus beatae eum voluptatem harum molestiae velit, aliquid odit vitae? Illo, iure. Magni doloremque sapiente repellat qui illo facilis provident ipsum voluptates, eius soluta labore iusto, blanditiis aspernatur itaque nesciunt corrupti nobis obcaecati explicabo inventore, modi quibusdam error quo quam reprehenderit? Quisquam, praesentium officia. Esse fugiat dolorem repudiandae!</p>
       <div class="row mb-5">
           <div class="col-md-8 mb-3">
             <!-- <router-link> -->

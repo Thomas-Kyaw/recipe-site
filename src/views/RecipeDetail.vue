@@ -1,30 +1,47 @@
 <template>
-  <div class="container">
+  <div class="container" v-if="recipe">
     <h1>{{ recipe.title }}</h1>
-    <!-- Add other recipe details here -->
+    <p>{{ recipe.category }} - {{ recipe.subcategory }}</p>
+    <p>Prep Time: {{ recipe.times.prep }}</p>
+    <p>Cook Time: {{ recipe.times.cookTime }}</p>
+    <p>Total Time: {{ recipe.times.totalTime }}</p>
+    <h2>Ingredients</h2>
+    <ul>
+      <li v-for="ingredient in recipe.ingredients" :key="ingredient.name">
+        {{ ingredient.quantity }} {{ ingredient.name }}
+      </li>
+    </ul>
+    <h2>Instructions</h2>
+    <ol>
+      <li v-for="(instruction, index) in recipe.instructions" :key="index">
+        {{ instruction }}
+      </li>
+    </ol>
+  </div>
+  <div v-else>
+    <p>Loading recipe details...</p>
   </div>
 </template>
 
 <script>
 export default {
-  props: ['name'],
+  props: ['id'], // Use the passed 'id' prop to fetch the correct recipe
   data() {
     return {
-      recipe: null
+      recipe: null // Initially null, will be set to the fetched recipe
     };
   },
   created() {
-    // Fetch the recipe by name when the component is created
-    this.fetchRecipe(this.name);
+    this.fetchRecipe();
   },
   methods: {
-    fetchRecipe(name) {
-      // This function would fetch the recipe data based on the 'name' prop
-      // Here's a pseudo-code to show the idea
-      axios.get('/data/db.json').then(response => {
-        const recipes = response.data.recipes;
-        this.recipe = recipes.find(r => r.title.toLowerCase() === name.toLowerCase());
-      });
+    fetchRecipe() {
+      fetch(`http://localhost:3000/recipes/${this.id}`)
+        .then(response => response.json())
+        .then(data => {
+          this.recipe = data;
+        })
+        .catch(error => console.error('Error fetching recipe:', error));
     }
   }
 };

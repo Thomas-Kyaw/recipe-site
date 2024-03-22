@@ -2,8 +2,10 @@
   "recipes": [
     {
       "title": "Mapo Tofu (Japanese Style)",
+      "id": 1,
       "source": "https://cookpad.com/recipe/1729093",
-      "isFavourite": false,
+      "image": "assets/mapo-tofu.jpg",
+      "isFavourite": true,
       "category": "Eastern",
       "subcategory": "Japanese",
       "times": {
@@ -81,7 +83,9 @@
     },
     {
       "title": "Pad Thai",
+      "id": 2,
       "source": "https://hot-thai-kitchen.com/best-pad-thai/",
+      "image": "assets/padthai.jpg",
       "isFavourite": false,
       "category": "Eastern",
       "subcategory": "Others",
@@ -159,7 +163,9 @@
     },
     {
       "title": "Chicken Tikka Masala",
+      "id": 3,
       "source": "https://www.allrecipes.com/recipe/45736/chicken-tikka-masala/",
+      "image": "assets/chicken-tikka-masala.jpg",
       "isFavourite": false,
       "category": "Eastern",
       "subcategory": "Others",
@@ -253,8 +259,10 @@
     },
     {
       "title": "Oyakodon",
+      "id": 4,
       "source": "https://www.allrecipes.com/recipe/128589/oyakodon-japanese-chicken-and-egg-rice-bowl/",
-      "isFavourite": false,
+      "image": "assets/oyakodon.jpg",
+      "isFavourite": true,
       "category": "Eastern",
       "subcategory": "Japanese",
       "times": {
@@ -310,8 +318,10 @@
     },
     {
       "title": "Kimchi Jigae",
+      "id": 5,
       "source": "https://www.maangchi.com/recipe/kimchi-jjigae",
-      "isFavourite": false,
+      "image": "assets/kimchi-jigae.jpg",
+      "isFavourite": true,
       "category": "Eastern",
       "subcategory": "Korean",
       "times": {
@@ -401,7 +411,9 @@
     },
     {
       "title": "Sichuan Eggplant Stir Fry",
+      "id": 6,
       "source": "https://www.cookingandme.com/szechuan-eggplant-sichuan-eggplant-recipe/",
+      "image": "assets/eggplant-stir-fry.jpg",
       "isFavourite": false,
       "category": "Eastern",
       "subcategory": "Chinese",
@@ -474,8 +486,10 @@
     },
     {
       "title": "Fried Flat Rice Noodles (My Mom’s Recipe)",
+      "id": 7,
       "source": "/home",
-      "isFavourite": false,
+      "image": "assets/FlatRiceNoodles-Stir-Fry.jpg",
+      "isFavourite": true,
       "category": "Eastern",
       "subcategory": "Others",
       "ingredients": [
@@ -547,7 +561,9 @@
     },
     {
       "title": "Goya Champuru (Bitter Gourd Stir-Fry)",
+      "id": 8,
       "source": "https://cookpad.com/recipe/1515963",
+      "image": "assets/bitter-gourd.jpg",
       "isFavourite": false,
       "category": "Eastern",
       "subcategory": "Japanese",
@@ -625,7 +641,9 @@
     },
     {
       "title": "BLT Sandwich",
+      "id": 9,
       "source": "https://www.seriouseats.com/ultimate-blt-sandwich-bacon-lettuce-tomato-recipe",
+      "image": "assets/BLT-Sandwich.jpg",
       "isFavourite": false,
       "category": "Western",
       "subcategory": "American",
@@ -678,8 +696,10 @@
     },
     {
       "title": "Korean Fried Chicken",
+      "id": 10,
       "source": "https://www.maangchi.com/recipe/easy-dakgangjeong",
-      "isFavourite": false,
+      "image": "assets/kfc.jpg",
+      "isFavourite": true,
       "category": "Eastern",
       "subcategory": "Korean",
       "ingredients": [
@@ -754,8 +774,10 @@
     },
     {
       "title": "Paella",
+      "id": 11,
       "source": "https://www.allrecipes.com/recipe/84137/easy-paella/",
-      "isFavourite": false,
+      "image": "assets/Paella.jpg",
+      "isFavourite": true,
       "category": "Western",
       "subcategory": "European",
       "times": {
@@ -846,7 +868,9 @@
     },
     {
       "title": "Karaage",
+      "id": 12,
       "source": "https://www.kewpie.co.jp/recipes/basicokazu/okazu01/",
+      "image": "assets/karaage.jpg",
       "isFavourite": false,
       "category": "",
       "subcategory": "",
@@ -911,7 +935,9 @@
     },
     {
       "title": "Creamy au Gratin Potatoes",
+      "id": 13,
       "source": "https://www.allrecipes.com/recipe/15925/creamy-au-gratin-potatoes/",
+      "image": "assets/Creamy-au-Gratin-Potatoes.jpg",
       "isFavourite": false,
       "category": "Western",
       "subcategory": "European",
@@ -964,7 +990,9 @@
     },
     {
       "title": "Mongolian Beef",
+      "id": 14,
       "source": "https://www.allrecipes.com/recipe/201849/mongolian-beef-and-spring-onions/",
+      "image": "assets/MongolianBeef.jpg",
       "isFavourite": false,
       "category": "Eastern",
       "subcategory": "Chinese",
@@ -1026,7 +1054,9 @@
     },
     {
       "title": "Beef Bulgogi",
+      "id": 15,
       "source": "https://www.allrecipes.com/recipe/100606/beef-bulgogi/",
+      "image": "assets/Bulgogi.jpg",
       "isFavourite": false,
       "category": "Eastern",
       "subcategory": "Korean",
@@ -1081,7 +1111,9 @@
     },
     {
       "title": "Louisiana Red Beans and Rice",
+      "id": 16,
       "source":"https://www.allrecipes.com/recipe/58211/authentic-louisiana-red-beans-and-rice/",
+      "image": "assets/Louisiana-Rice.jpg",
       "isFavourite": false,
       "category": "Western",
       "subcategory": "American",

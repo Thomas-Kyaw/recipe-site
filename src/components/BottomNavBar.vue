@@ -16,12 +16,15 @@
           @mouseenter="mouseEnter('EASTERN')" 
           @mouseleave="mouseLeave('EASTERN')" 
           :class="{ show: showDropdown.EASTERN }">
-          <router-link to="/eastern" class="nav-link dropdown-toggle">EASTERN</router-link>
+          <router-link to="/category/eastern" class="nav-link dropdown-toggle">EASTERN</router-link>
           <ul class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
-            <li><router-link to="/chinese" class="dropdown-item">Chinese</router-link></li>
-            <li><router-link to="/japanese" class="dropdown-item">Japanese</router-link></li>
-            <li><router-link to="/korean" class="dropdown-item">Korean</router-link></li>
-            <li><router-link to="/others" class="dropdown-item">Others</router-link></li>
+            <li><router-link :to="{ name: 'subcategory', params: { category: 'eastern', subcategory: 'chinese' }}" class="dropdown-item">Chinese</router-link></li>
+
+            <li><router-link :to="{ name: 'subcategory', params: { category: 'eastern', subcategory: 'japanese' }}" class="dropdown-item">Japanese</router-link></li>
+            
+            <li><router-link :to="{ name: 'subcategory', params: { category: 'eastern', subcategory: 'korean' }}" class="dropdown-item">Korean</router-link></li>
+
+            <li><router-link :to="{ name: 'subcategory', params: { category: 'eastern', subcategory: 'others' }}" class="dropdown-item">others</router-link></li>
           </ul>
           </li>
 
@@ -30,10 +33,11 @@
           @mouseenter="mouseEnter('WESTERN')" 
           @mouseleave="mouseLeave('WESTERN')" 
           :class="{ show: showDropdown.WESTERN }">
-          <router-link to="/western" class="nav-link dropdown-toggle">WESTERN</router-link>
+          <router-link to="/category/western" class="nav-link dropdown-toggle">WESTERN</router-link>
           <ul class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
-            <li><router-link to="/american" class="dropdown-item">American</router-link></li>
-            <li><router-link to="/european" class="dropdown-item">European</router-link></li>
+            <li><router-link :to="{ name: 'subcategory', params: { category: 'western', subcategory: 'american' }}" class="dropdown-item">American</router-link></li>
+
+            <li><router-link :to="{ name: 'subcategory', params: { category: 'western', subcategory: 'european' }}" class="dropdown-item">European</router-link></li>
           </ul>
           </li>
 
@@ -43,10 +47,7 @@
             @mouseenter="mouseEnter('MY_FAVOURITES')" 
             @mouseleave="mouseLeave('MY_FAVOURITES')" 
             :class="{ show: showDropdown.MY_FAVOURITES }">
-            <router-link to="/favourites" class="nav-link dropdown-toggle">My Favourites</router-link>
-            <ul class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
-              <li><router-link to="/moms-recipes" class="dropdown-item">My mom's recipes</router-link></li>
-            </ul>
+            <router-link to="/category/favourites" class="nav-link dropdown-toggle">My Favourites</router-link>
           </li>
         </ul>
       </div>
@@ -104,7 +105,7 @@ export default {
 
 .nav-link:hover {
   text-decoration: underline;
-  color: #0275d8; /* Change color on hover */
+  text-decoration-color: orange; /* Change color on hover */
 }
 
 /* This CSS will retract the navbar when `visible` is false */
