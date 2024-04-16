@@ -63,6 +63,7 @@ export default {
         });
     },getImagePath(imagePath) {
       // Use the require function to make sure Webpack processes it correctly
+      // For some reason, without this the images won't load
       return require(`@/${imagePath}`);
     }
   }

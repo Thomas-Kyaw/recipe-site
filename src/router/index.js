@@ -4,6 +4,7 @@
   import Category from '../views/Category.vue'
   import Subcategory from '../views/Subcategory.vue'
   import RecipeDetail from '../views/RecipeDetail.vue'
+  import ContactUs from '../views/ContactUs.vue'
 
   const routes = [
     {
@@ -31,6 +32,11 @@
       name: 'subcategory',
       component: Subcategory, 
       props: true 
+    },
+    {
+      path: '/contact-us',
+      name: 'contact-us',
+      component: ContactUs
     }
   ]
 
