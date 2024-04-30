@@ -492,6 +492,13 @@
       "isFavourite": true,
       "category": "Eastern",
       "subcategory": "Others",
+      "times": {
+        "prep": "10 mins",
+        "cook": "25 mins",
+        "active": "20 mins",
+        "total": "55 mins"
+      },
+      "servings": "4",
       "ingredients": [
         {
           "name": "Flat Rice Noodles",
@@ -567,6 +574,13 @@
       "isFavourite": false,
       "category": "Eastern",
       "subcategory": "Japanese",
+      "times": {
+        "prep": "5 mins",
+        "cook": "15 mins",
+        "active": "20 mins",
+        "total": "20 mins"
+      },
+      "servings": "4",
       "ingredients": [
         {
           "name": "Bitter Gourd (Goya)",
@@ -702,6 +716,13 @@
       "isFavourite": true,
       "category": "Eastern",
       "subcategory": "Korean",
+      "times": {
+        "prep": "7 mins",
+        "cook": "20 mins",
+        "active": "20 mins",
+        "total": "47 mins"
+      },
+      "servings": "4",
       "ingredients": [
         {
           "name": "Chicken wings",
@@ -874,6 +895,12 @@
       "isFavourite": false,
       "category": "",
       "subcategory": "",
+      "times": {
+        "prep": "15 mins",
+        "cook": "30 mins",
+        "total": "1 hr"
+      },
+      "servings": "8",
       "ingredients": [
         {
           "name": "Chicken Thighs",

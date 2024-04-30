@@ -39,7 +39,7 @@ body {
 }
 
 h1 {
-  margin: 50px auto 20px auto;
+  margin: 70px auto 20px auto;
   font-size: 2.5em;
   text-align: center;
   color: #2c3e50;
