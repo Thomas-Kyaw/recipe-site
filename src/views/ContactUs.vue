@@ -4,11 +4,11 @@
     <v-alert
       class="mb-4"
       v-if="submitted"
-      :type="submitStatus === 'Your message has been sent successfully!' ? 'success' : 'error'"
+      :class="alertClasses"
       dismissible
       @input="submitted = false"
     >
-      {{ submitStatus }}
+      {{ submitStatus.message }}
     </v-alert>
     <v-form ref="form" @submit.prevent="submitForm">
       <v-text-field
@@ -60,8 +60,6 @@
 </template>
 
 <script>
-import { collection, addDoc } from 'firebase/firestore';
-import { db } from '@/firebase';
 
 export default {
   data() {
@@ -107,7 +105,13 @@ export default {
       const questionIsValid = this.question !== '';
 
       return nameIsValid && emailIsValid && phoneIsValid && addressIsValid && inquiryTypeIsValid && questionIsValid;
-    }
+    },
+    alertClasses() {
+    return {
+      'success-alert': this.submitStatus.type === 'success',
+      'error-alert': this.submitStatus.type === 'error'
+    };
+  }
   },
   methods: {
     async submitForm() {
@@ -121,14 +125,35 @@ export default {
           question: this.question,
         };
         try {
-          await addDoc(collection(db, "contacts"), formData);
+          const response = await fetch('http://localhost:3000/contacts', {
+            method: 'POST',
+            headers: { 'Content-Type': 'application/json' },
+            body: JSON.stringify(formData)
+          });
+
+          const result = await response.json();
+          // Customize the success message here
+          if (response.ok) {
+            this.submitStatus = { type: 'success', message: "Your message has been recorded. We'll get back to you soon!" };
+          } else {
+            this.submitStatus = { type: 'error', message: result.message || 'Failed to send your message. Please try again later.' };
+          }
           this.submitted = true;
-          this.submitStatus = 'Your message has been sent successfully!';
           this.resetForm();
+
+          // Set timeout to dismiss the alert after 5 seconds
+          setTimeout(() => {
+            this.submitted = false;
+          }, 5000);
+          
         } catch (error) {
-          console.error("Error adding document: ", error);
+          console.error("Error sending data: ", error);
           this.submitted = true;
-          this.submitStatus = 'Failed to send your message. Please try again later.';
+          this.submitStatus = { type: 'error', message: 'Failed to send your message. Please try again later.' };
+          // Set timeout to dismiss the alert after 5 seconds
+          setTimeout(() => {
+            this.submitted = false;
+          }, 5000);
         }
       }
     },
@@ -153,5 +178,15 @@ export default {
 .form-container {
   margin-top: 140px; 
   padding: 20px; 
+}
+
+.success-alert {
+  background-color: green; /* Customize the color as needed */
+  color: white;
+}
+
+.error-alert {
+  background-color: red; /* Customize the color as needed */
+  color: white;
 }
 </style>

@@ -43,7 +43,7 @@ export default {
   },
   methods: {
     fetchRecipes() {
-      fetch('http://localhost:3000/recipes')
+      fetch('http://localhost:3001/recipes')
         .then(response => response.json())
         .then(data => {
           this.recipes = data;
