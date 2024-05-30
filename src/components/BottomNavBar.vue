@@ -11,6 +11,8 @@
       <div class="collapse navbar-collapse" id="navbarNavDropdown">
         <ul class="navbar-nav">
 
+          <router-link class="nav-link" to="/search">SEARCH</router-link>
+
           <!-- Eastern Dropdown -->
           <li class="nav-item dropdown" 
           @mouseenter="mouseEnter('EASTERN')" 

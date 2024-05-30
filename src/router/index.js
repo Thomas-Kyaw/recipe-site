@@ -7,6 +7,7 @@
   import ContactUs from '../views/ContactUs.vue'
   import Login from '../views/Login.vue'
   import Manage from '../views/Manage.vue'
+  import Search from '../views/Search.vue'
 
   const routes = [
     {
@@ -49,6 +50,11 @@
       path: '/manage',
       name: 'manage',
       component: Manage
+    },
+    {
+      path: '/search',
+      name: 'search',
+      component: Search
     }
   ]
 
