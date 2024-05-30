@@ -6,7 +6,7 @@
       </v-card-title>
       <v-card-text>
         <v-container>
-          <v-form ref="form" @submit.prevent="submitForm">
+          <v-form ref="form" v-model="valid" lazy-validation>
             <v-row>
               <v-col cols="12" sm="6" md="4">
                 <v-text-field v-model="contact.name" label="Name" :rules="nameRules" required></v-text-field>
@@ -27,14 +27,14 @@
                 <v-textarea v-model="contact.question" label="Question" :rules="questionRules" required></v-textarea>
               </v-col>
             </v-row>
-            <v-card-actions>
-              <v-spacer></v-spacer>
-              <v-btn color="blue darken-1" text @click="close">Cancel</v-btn>
-              <v-btn color="blue darken-1" text type="submit" :disabled="!isFormValid">Save</v-btn>
-            </v-card-actions>
           </v-form>
         </v-container>
       </v-card-text>
+      <v-card-actions>
+        <v-spacer></v-spacer>
+        <v-btn color="blue darken-1" text @click="close">Cancel</v-btn>
+        <v-btn color="blue darken-1" text @click="submitForm" :disabled="!valid">Save</v-btn>
+      </v-card-actions>
     </v-card>
   </v-dialog>
 </template>
@@ -49,6 +49,7 @@ export default {
   },
   data() {
     return {
+      valid: true,
       contact: {
         name: '',
         email: '',
@@ -60,8 +61,8 @@ export default {
       inquiryOptions: ['General', 'Suggestion', 'Recipe-Info', 'Others'],
       nameRules: [
         v => !!v || 'Name is required',
-        v => v.length >= 2 || 'Name must be at least 2 characters',
-        v => v.length <= 50 || 'Name must be less than 50 characters',
+        v => (v && v.length >= 2) || 'Name must be at least 2 characters',
+        v => (v && v.length <= 50) || 'Name must be less than 50 characters',
         v => /^[a-zA-Z\s-]*$/.test(v) || 'Name must only contain alphabetic characters, spaces, or hyphens',
       ],
       emailRules: [
@@ -77,11 +78,6 @@ export default {
       questionRules: [v => !!v || 'Question is required'],
     };
   },
-  computed: {
-    isFormValid() {
-      return this.$refs.form && this.$refs.form.validate();
-    },
-  },
   methods: {
     updateVisible(val) {
       this.$emit('update:visible', val);
@@ -91,8 +87,9 @@ export default {
       this.reset();
     },
     async submitForm() {
-      if (this.isFormValid) {
+      if (this.$refs.form.validate()) {
         try {
+          console.log('Form is valid. Submitting...');
           const response = await fetch('http://localhost:3000/contacts', {
             method: 'POST',
             headers: { 'Content-Type': 'application/json' },
@@ -100,19 +97,28 @@ export default {
           });
 
           if (response.ok) {
+            console.log('Contact saved successfully.');
             this.$emit('refresh');
             this.close();
           } else {
+            console.error('Failed to save contact');
             throw new Error('Failed to save contact');
           }
         } catch (error) {
           console.error('Error saving contact:', error);
         }
       }
-      this.reset();
     },
     reset() {
       this.$refs.form.reset();
+      this.contact = {
+        name: '',
+        email: '',
+        phone: '',
+        address: '',
+        inquiryType: '',
+        question: '',
+      };
     },
   },
 };
