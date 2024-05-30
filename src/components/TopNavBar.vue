@@ -9,6 +9,7 @@
 
       <!-- Navbar links -->
       <div class="ms-auto">
+        <router-link to="/login" class="nav-link">Login</router-link>
         <router-link to="/about" class="nav-link">About</router-link>
         <router-link to="/contact-us" class="nav-link">Contact Us</router-link>
       </div>

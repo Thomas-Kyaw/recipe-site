@@ -5,6 +5,8 @@
   import Subcategory from '../views/Subcategory.vue'
   import RecipeDetail from '../views/RecipeDetail.vue'
   import ContactUs from '../views/ContactUs.vue'
+  import Login from '../views/Login.vue'
+  import Manage from '../views/Manage.vue'
 
   const routes = [
     {
@@ -37,6 +39,16 @@
       path: '/contact-us',
       name: 'contact-us',
       component: ContactUs
+    },
+    {
+      path: '/login',
+      name: 'login',
+      component: Login
+    },
+    {
+      path: '/manage',
+      name: 'manage',
+      component: Manage
     }
   ]
 
